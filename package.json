@@ -1,0 +1,17 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "live cource",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "srinu",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "browerslist":[
+    "last 2 versions"
+  ]
+}
